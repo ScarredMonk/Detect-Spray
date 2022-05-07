@@ -12,4 +12,4 @@ Then, I’m leveraging the Active Directory user attributes badPasswordTime and 
 When I’ll try password spraying for multiple users, it will get detected by the tool Detect-spray as shown in the screenshot:
 ![image](https://user-images.githubusercontent.com/46210620/167267340-e127d83d-3ad9-435f-8da9-6fb06f025cdc.png)
 
-Blogpost Link - [https://rootdse.org/posts/monitoring-realtime-activedirectory-domain-scenarios}(https://rootdse.org/posts/monitoring-realtime-activedirectory-domain-scenarios)
+**Blogpost Link** - [https://rootdse.org/posts/monitoring-realtime-activedirectory-domain-scenarios](https://rootdse.org/posts/monitoring-realtime-activedirectory-domain-scenarios)
